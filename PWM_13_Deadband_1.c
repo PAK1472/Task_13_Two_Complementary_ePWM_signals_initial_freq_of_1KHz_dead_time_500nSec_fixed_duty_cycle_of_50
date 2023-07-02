@@ -1,7 +1,7 @@
 /*Maaz khan
   Reg No : 19jzele0320
 
-/////////////////////////////// Task-10  ////////////////////////////////////////////////////////////
+/////////////////////////////// Task-13  ////////////////////////////////////////////////////////////
 
 Generate two PWM signals with initial frequency of 1KHz having dead time of 500nSec and fixed duty cycle of 50%, such that
 1. When switch 1 is pressed the frequency should increase by 10khz
